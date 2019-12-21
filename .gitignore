@@ -1,1 +1,4 @@
 *.xls
+/* .xls files need to be ingnore along with .class files*/
+*.class
+test.txt
