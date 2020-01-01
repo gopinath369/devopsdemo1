@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+this is the master change
+=======
+RTHis is the change by feat
+
+Thisisthe change by master
+
+New line added by feat2 1
+>>>>>>> feat2
