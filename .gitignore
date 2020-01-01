@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #all class files are ignored
 
 *.class#all class files are ignored
@@ -5,3 +6,9 @@
 *.class#all class files are ignored
 
 *.class
+=======
+*.xls
+/* .xls files need to be ingnore along with .class files*/
+*.class
+test.txt
+>>>>>>> 117f319b1c52c44211feb90ed0172bb53c1f572e
